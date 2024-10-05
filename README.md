@@ -14,11 +14,7 @@ This project takes a GitHub username as input and displays the user's details.
 	+ Repositories
 
 ## API Documentation
-
 This project uses the GitHub API to fetch user details. The following endpoint is used:
 
-* `GET /users/{username}`: Retrieves a user's details.
-
 ## Contributing
-
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
